@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="header">ListyCity</string>
+    <string name="add_city_button_text">ADD CITY</string>
+    <string name="delete_city_button_text">DELETE CITY</string>
+    <string name="confirm_button_text">CONFIRM</string>
+    <string name="cancel_button_text">CANCEL</string>
+</resources>
