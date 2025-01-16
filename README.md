@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Tomas Ordonez Gonzalez`
+- **CCID:** `ordonezg`
 
 ## References and Resources
 
